@@ -7,3 +7,4 @@
  -Tomatoes
 ## Instructions 
 First cut open the avocado. 
+Second scoop out avocado with a spoon. 
